@@ -23,6 +23,7 @@
 	width:100px; 
 	height:32px; 
 	padding:0 0 0 1px;
+	border-right:2px solid #f00;
 }
 #navigation ul li a{
 	display:block; 
@@ -217,7 +218,7 @@ vertical-align: middle;
 }
 header{
 margin: auto;
-padding:10px 5px 20px;
+padding:45px 5px 10px;
 width: 1000px;
 height: 250px;
 
