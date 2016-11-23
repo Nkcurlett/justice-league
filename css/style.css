@@ -9,11 +9,11 @@
 }
 
 #navigation ul{
-	width:500px; 
+	width:550px; 
 	height:32px; 
 	position:absolute; 
 	top:5px; 
-	right:0px;
+	right:100px;
 	border:2px solid #f00;
 	text-align:center;
 	 list-style-type: none;
