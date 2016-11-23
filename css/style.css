@@ -9,7 +9,7 @@
 }
 
 #navigation ul{
-	width:700px; 
+	width:500px; 
 	height:32px; 
 	position:absolute; 
 	top:5px; 
@@ -18,13 +18,13 @@
 }
 #navigation ul li{
 	float:left; 
-	width:79px; 
+	width:100px; 
 	height:32px; 
 	padding:0 0 0 1px;
 }
 #navigation ul li a{
 	display:block; 
-	width:79px; 
+	width:100px; 
 	height:32px; 
 	background-color:#000; 
 	color:#fff; 
@@ -43,7 +43,7 @@
 
 #navigation ul li.home{
 	display:block; 
-	width:79px; 
+	width:100px; 
 	height:32px; 
 	background-color:#000;  
 	font-size:11px; 
@@ -215,7 +215,7 @@ vertical-align: middle;
 }
 header{
 margin: auto;
-padding: 5px;
+padding:35px 5px 10px;
 width: 1000px;
 height: 250px;
 
