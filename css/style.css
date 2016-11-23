@@ -9,7 +9,7 @@
 }
 
 #navigation ul{
-	width:520px; 
+	width:505px; 
 	height:32px; 
 	position:absolute; 
 	top:5px; 
@@ -22,7 +22,7 @@
 	float:left; 
 	width:100px; 
 	height:32px; 
-	padding:0 0 0 1px;
+	padding:0px;
 	border-right:2px solid #f00;
 }
 #navigation ul li a{
