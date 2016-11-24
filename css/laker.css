@@ -1,10 +1,10 @@
 /*removed the image and did straight background*/
     body {
-	background-color:#000000;
+	background-color:#fdb927;
 	height:auto;
 	margin-top: 0px;
 	padding:10px 0 125px 0px;
-	color:#FDB927;
+	color:#552582;
     font-family:Verdana, Arial, Helvetica, sans-serif;
 }
 
@@ -28,8 +28,8 @@
 	display:block; 
 	width:100px; 
 	height:32px; 
-	background-color:#000; 
-	color:#fff; 
+	background-color:#fdb927; 
+	color:#552582; 
 	font-size:11px; 
 	font-weight:bold; 
 	line-height:32px; 
@@ -38,8 +38,8 @@
 	text-decoration:none;
 }
 #navigation ul li a:hover, active{
-	background-color:#000; 
-	color:#f00; 
+	background-color:#552582; 
+	color:#fdb927; 
 	text-decoration:none;
 }
 
@@ -47,11 +47,11 @@
 	display:block; 
 	width:100px; 
 	height:32px; 
-	background-color:#000;  
+	background-color:#552582;  
 	font-size:11px; 
 	font-weight:bold; 
 	line-height:32px; 
-	color:#fff; 
+	color:#fdb927; 
 	text-decoration:none; 
 	text-transform:uppercase; 
 	text-align:center;
