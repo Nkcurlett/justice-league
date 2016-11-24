@@ -21,7 +21,7 @@
 	width:100px; 
 	height:32px; 
 	padding:0px;
-	border-right:2px solid #fdb927;
+	border-right:2px solid #552582;
 }
 #navigation ul li a{
 	display:block; 
@@ -347,5 +347,5 @@ input.subtract-points {
 }
 
 #simplemodal-overlay {
-	background-color:#000;
+	background-color:#552582;
 }
