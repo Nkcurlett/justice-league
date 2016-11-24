@@ -12,8 +12,8 @@
 #navigation ul{
 	width:auto; 
 	height:32px; 
-	border:2px solid #f00;
-	background-color:#000;
+	border:2px solid #fff;
+	background-color:#552582;
 	text-align:center;
 	list-style-type: none;
 }
@@ -22,7 +22,7 @@
 	width:100px; 
 	height:32px; 
 	padding:0px;
-	border-right:2px solid #f00;
+	border-right:2px solid #fff;
 }
 #navigation ul li a{
 	display:block; 
