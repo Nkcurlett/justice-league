@@ -199,6 +199,7 @@ textarea#title {
 
 .submit {
 	margin:auto;
+	width:180px;
 }
 
 #modal {
