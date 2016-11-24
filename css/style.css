@@ -219,7 +219,7 @@ textarea#title {
 }
 
 header{
-        margin: 0;
+        margin: auto;
         padding:0;
         width: 1000px;
         height: 275px;
