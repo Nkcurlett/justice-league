@@ -269,7 +269,7 @@ textarea#title {
 #stats {
 	position:fixed;
 	bottom:0;
-	background-color:#552582;
+	background-color:#fdb927;
 	width:100%;
 	text-align:center;
 	height:100px;
@@ -287,9 +287,9 @@ textarea#title {
     font-size:18px;
     font-weight:bold;
     text-align:center;
-    color: #fdb927;
+    color: #552582;
     font-family: Verdana, Arial, Helvetica, sans-serif;
-    background-color:#552582;
+    background-color:#fdb927;
     width:100%;
     display:block;
 }
@@ -299,8 +299,8 @@ textarea#title {
 }
 
 #stats table th {
-	background-color:#552582;
-	border-bottom:1px solid #fdb927;
+	background-color:#fdb927;
+	border-bottom:1px solid #552582;
 }
 
 input.add-points {
@@ -310,7 +310,7 @@ input.add-points {
 	font-size:20px;
 	cursor:pointer;
 	padding:0px;
-	background-color:#552582;
+	background-color:#fdb927;
 	border:none;
 	display:inline;
 }
@@ -322,7 +322,7 @@ input.subtract-points {
 	font-size:20px;
 	cursor:pointer;	
 	padding:0px;
-	background-color:#552582;
+	background-color:#fdb927;
 	border:none;
 	display:inline;
 }
