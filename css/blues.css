@@ -123,7 +123,7 @@ textarea#title {
 }
 /*numbers for the game category*/
 #game h3 {
-	color:#fff;
+	color:#fdb930;
 	text-align:center;
 	font-size:20px;
 	font-weight:bold;
@@ -131,28 +131,28 @@ textarea#title {
 /*headings for the column categories*/
         #game thead th {
 	vertical-align: middle;
-	background-color:#818181;
+	background-color:#002d62;
 	padding:5px;
 	text-align:center;
 	width:19%;
-	color:#818181;
-        text-shadow:2px 2px #000;
+	color:#fdb930;
+        text-shadow:1px 1px #00529c;
 	height:60px;
 	font-size:20px;
-	border: 2px solid #fff;
+	border: 2px solid #fdb930;
 	
 }
 #game thead td {
 	vertical-align: middle;
-	background-color:#818181;
+	background-color:#002d62;
 	padding:5px;
 	text-align:center;
 	width:19%;
-	color:#818181;
-        text-shadow:2px 2px #000;
+	color:#fdb930;
+         text-shadow:1px 1px #00529c;
 	height:100px;
 	font-size:20px;
-	border: 2px solid #fff;
+	border: 2px solid #fdb930;
 	
 }
 
@@ -163,13 +163,13 @@ textarea#title {
     width:100px;
     height:100px;
     border:3px solid #fff;
-    background-color: #818181;
+    background-color: #00529c;
     background-position: center;
     background-repeat: no-repeat;
 }
 
 #game tbody td.ie-hack {
-	border:3px solid #818181;
+	border:3px solid #00529c;
 }
 
 /*#game tbody td.clean:hover {
@@ -181,20 +181,20 @@ textarea#title {
 }*/
 
 #game tbody td.dirty h3 {
-	color:#f00;
-	 background-image: url(../images/nation-logo.jpg);
+	 color:#00529c;
+	 background-image: url(../images/blues-start.png);
 	 width:100%;
          height:100px;
-	text-align:center;
-	text-shadow:2px 2px #000;
-	background-position: center;
-        background-repeat: no-repeat;
+	 text-align:center;
+	 text-shadow:1px 1px #002d62;
+	 background-position: center;
+         background-repeat: no-repeat;
 	
 }
 
 #game tfoot td {
 	text-align: center;
-	background-color:#818181;
+	background-color:#00529c;
 }
 
 .submit {
@@ -203,9 +203,9 @@ textarea#title {
 
 #modal {
 	display: none;
-	background-color:#fff;
+	background-color:#00529c;
 	padding:5px;
-	border:2px dashed #818181;
+	border:2px dashed #fff;
 }
 
 #modal {
@@ -230,14 +230,14 @@ textarea#title {
 #options h1 {
 	font-size:50px;
 	text-align:center;
-	color:#000;
-        text-shadow:2px 2px #818181;
+	color:#00529c;
+        text-shadow:2px 2px #002d62;
 }
 
 #options label {
 	text-align: center;
 	font-size:20px;
-	color:#000000;
+	color:#002d62;
 }
 
 #options select, #options label, #options input {
@@ -253,7 +253,7 @@ textarea#title {
 }
 #options p {
 	margin-bottom:0px;
-	color:#818181;
+	color:#002d62;
 	font-weight: bold;	
 }
 
@@ -269,7 +269,7 @@ textarea#title {
 #stats {
 	position:fixed;
 	bottom:0;
-	background-color:#818181;
+	background-color:#002d62;
 	width:100%;
 	text-align:center;
 	height:100px;
@@ -289,7 +289,7 @@ textarea#title {
     text-align:center;
     color: #fff;
     font-family: Verdana, Arial, Helvetica, sans-serif;
-    background-color:#818181;
+    background-color:#002d62;
     width:100%;
     display:block;
 }
@@ -299,8 +299,8 @@ textarea#title {
 }
 
 #stats table th {
-	background-color:#818181;
-	border-bottom:1px solid black;
+	background-color:#002d62;
+	border-bottom:1px solid #fdb930;
 }
 
 input.add-points {
@@ -310,7 +310,7 @@ input.add-points {
 	font-size:20px;
 	cursor:pointer;
 	padding:0px;
-	background-color:#818181;
+	background-color:#002d62;
 	border:none;
 	display:inline;
 }
@@ -322,7 +322,7 @@ input.subtract-points {
 	font-size:20px;
 	cursor:pointer;	
 	padding:0px;
-	background-color:#818181;
+	background-color:#002d62;
 	border:none;
 	display:inline;
 }
@@ -331,7 +331,7 @@ input.subtract-points {
 	display:none;
 	height:100%;
 	width:100%;
-	background-color:#818181;
+	background-color:#002d62;
 	color:#FFFFFF;
 	text-align:center;
 }
@@ -347,5 +347,5 @@ input.subtract-points {
 }
 
 #simplemodal-overlay {
-	background-color:#000;
+	background-color:#002d62;
 }
