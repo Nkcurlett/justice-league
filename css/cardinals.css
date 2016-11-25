@@ -310,7 +310,7 @@ input.add-points {
 	font-size:20px;
 	cursor:pointer;
 	padding:0px;
-	background-color:#c41e3a;
+	background-color:#fff;
 	border:none;
 	display:inline;
 }
@@ -322,7 +322,7 @@ input.subtract-points {
 	font-size:20px;
 	cursor:pointer;	
 	padding:0px;
-	background-color:#c41e3a;
+	background-color:#fff;
 	border:none;
 	display:inline;
 }
