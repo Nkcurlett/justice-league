@@ -303,7 +303,7 @@ textarea#title {
 	border-bottom:1px solid #f00;
 }
 
-input.add-points {
+input.add-points {/*plus sign button*/
 	color:#66cc33;
 	font-family:"Courier New", Courier, monospace;
 	font-weight:bold;
